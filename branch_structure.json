@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-868-backend-api-rate-limit-headers",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-868-backend-api-rate-limit-headers": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-868-backend-api-rate-limit-headers",
+    "origin"
+  ]
+}
